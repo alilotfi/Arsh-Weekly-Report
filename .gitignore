@@ -1,0 +1,5 @@
+settings.py
+.idea/workspace.xml
+__pycache__/
+venv/
+.idea
